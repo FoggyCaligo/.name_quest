@@ -1,0 +1,5 @@
+CREATE TABLE `data2`.`data2` 
+(`code` TEXT NOT NULL , 
+ `name` TEXT NOT NULL , 
+ `price` TEXT NOT NULL ) 
+ENGINE = InnoDB;
